@@ -8,12 +8,8 @@ Example:
 sum of vectors → 𝑣1 + 𝑣2 = [1 + 4; 3 + (−2); (−7) + (−1)] = (5; 1; −8) <br>
 scalar product → 𝑣1 ∗ 𝑣2 = 1 ∗ 4 + 3 ∗ (−2) + (−7) ∗ (−1) = 4 - 6 + 7 = 5
 
-<br>
-
 Example (for index number 123456): <br>
 Input: 268501280 3 1 3 -7 4 -2 -1
-
-<br>
 
 | memory address for storing the vector of the sum   |      Size of vectors     |  vector 1    | vector 2   | 
 |----------|:-------------:|------:|------:|
