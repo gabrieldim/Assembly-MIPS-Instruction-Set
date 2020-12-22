@@ -3,7 +3,7 @@
 .data
  prvVektor: .space 80   #deklariranje i ogranicuvanje na nizite na max dolzina 20
  vtorVektor: .space 80  #Pishuvame 80 bidejki 1 int = 4bits (20x4=80)
- indeks: .word 181225 #mojot indeks
+ indeks: .word 181225 
 .text
 main:	#main funkcija
 
