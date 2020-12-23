@@ -1,4 +1,4 @@
-# Writing assembly programs with the MIPS instruction set
+# Writing assembly program with the MIPS instruction set
 
 Write an assembly program in MIPS that for a given two vectors, as arrays of integers, will calculate their sum and their scalar product. 
 
